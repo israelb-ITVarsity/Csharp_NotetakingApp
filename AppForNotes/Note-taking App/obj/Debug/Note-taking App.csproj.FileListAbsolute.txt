@@ -1,0 +1,13 @@
+C:\Users\Israel\OneDrive - NewBridge College\Documents\coding practice\c#\AppForNotes\Note-taking App\bin\Debug\Note-taking App.exe.config
+C:\Users\Israel\OneDrive - NewBridge College\Documents\coding practice\c#\AppForNotes\Note-taking App\bin\Debug\Note-taking App.exe
+C:\Users\Israel\OneDrive - NewBridge College\Documents\coding practice\c#\AppForNotes\Note-taking App\bin\Debug\Note-taking App.pdb
+C:\Users\Israel\OneDrive - NewBridge College\Documents\coding practice\c#\AppForNotes\Note-taking App\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Israel\OneDrive - NewBridge College\Documents\coding practice\c#\AppForNotes\Note-taking App\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Israel\OneDrive - NewBridge College\Documents\coding practice\c#\AppForNotes\Note-taking App\obj\Debug\Note-taking App.csproj.AssemblyReference.cache
+C:\Users\Israel\OneDrive - NewBridge College\Documents\coding practice\c#\AppForNotes\Note-taking App\obj\Debug\NoteTakingApp.NoteForm.resources
+C:\Users\Israel\OneDrive - NewBridge College\Documents\coding practice\c#\AppForNotes\Note-taking App\obj\Debug\NoteTakingApp.Properties.Resources.resources
+C:\Users\Israel\OneDrive - NewBridge College\Documents\coding practice\c#\AppForNotes\Note-taking App\obj\Debug\Note-taking App.csproj.GenerateResource.cache
+C:\Users\Israel\OneDrive - NewBridge College\Documents\coding practice\c#\AppForNotes\Note-taking App\obj\Debug\Note-taking App.csproj.CoreCompileInputs.cache
+C:\Users\Israel\OneDrive - NewBridge College\Documents\coding practice\c#\AppForNotes\Note-taking App\obj\Debug\Note-taking App.csproj.CopyComplete
+C:\Users\Israel\OneDrive - NewBridge College\Documents\coding practice\c#\AppForNotes\Note-taking App\obj\Debug\Note-taking App.exe
+C:\Users\Israel\OneDrive - NewBridge College\Documents\coding practice\c#\AppForNotes\Note-taking App\obj\Debug\Note-taking App.pdb
